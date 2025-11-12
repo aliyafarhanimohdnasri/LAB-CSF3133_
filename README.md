@@ -1,9 +1,7 @@
 Introduction to HTML
-1.4 Structure of an HTML Document
-1.5.1 Headings
-1.5.2 Paragraphs and Text Formatting
-1.5.3 Lists (Ordered and Unordered)
-1.6.1 Add a Hyperlink
-1.6.2 Inserts an Image
-1.6.3 Commenting in HTML
-1.7 Lab Exercise 1
+2.3.1 Basic Table Structure
+2.3.2 Attributes in Tables
+2.4.1 Basic Form Elements
+2.4.2 Other Form Elements
+2.5.1 Common Semantic Tags
+2.6 Lab Exercise 2
